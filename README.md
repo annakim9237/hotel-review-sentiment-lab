@@ -51,7 +51,7 @@ Overall, these words indicate reviews describing **comfort, satisfaction, and po
 
 ---
 
-# Top Negative Sentiment Indicators
+## Top Negative Sentiment Indicators
 
 ![Negative Sentiment Words](Negative.png)
 
@@ -129,15 +129,3 @@ The notebook includes detailed text-processing steps essential for NLP workflows
 - Accuracy, Precision, Recall, F1  
 
 ---
-
-## ▶ How to Run
-
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-2. Open the notebook:
-```bash
-jupyter notebook Hyunjung_kim_NLP.ipynb
-```
