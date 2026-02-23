@@ -108,7 +108,7 @@ The notebook includes detailed text-processing steps essential for NLP workflows
 
 ---
 
-## 3. Modeling (If applicable)
+## 3. Modeling 
 
 ### Feature Engineering
 - Bag‑of‑Words  
